@@ -1,40 +1,64 @@
 export const bio = [
-  "Hello! I'm Vinay Somawat, an experienced Frontend Software Engineer with a proven ability to upgrade applications, optimize performance, and deliver innovative solutions.",
-  "I am passionate about using my technical skills to drive impactful contributions in challenging projects.",
+  "Hello! I'm Ruby Hong, a Computer Science and Engineering student at Smith College passionate about leveraging technology to create impactful solutions.",
+  "I am actively learning AI and web development, building my foundational knowledge and skills. Through my leadership in social initiatives, I strive to drive innovation with both technical expertise and entrepreneurial thinking.",
   "Thanks for visiting!",
 ];
 
 export const skills = [
   {
     title: "Languages",
-    skillName: "JavaScript, TypeScript",
+    skillName: "Python, Java",
     color: "1",
-    percentage: "80",
+    percentage: "85",
   },
   {
     title: "Frameworks/Libraries",
-    skillName: "Angular, RxJS, NGRX/NGXS",
+    skillName: "Javascript",
     color: "6",
-    percentage: "70",
+    percentage: "40",
   },
   {
     title: "Design",
     skillName: "HTML, Bootstrap, Tailwind",
     color: "4",
-    percentage: "70",
+    percentage: "40",
   },
   {
     title: "Version Control",
-    skillName: "GitHub, JIRA, Bitbucket",
+    skillName: "R, MatLab",
     color: "7",
-    percentage: "70",
-  },
-  {
-    title: "Tools",
-    skillName: "Debugging, Chrome DevTools",
-    color: "3",
-    percentage: "80",
-  },
+    percentage: "20",
+   },
+  // {
+  //   title: "Languages",
+  //   skillName: "JavaScript, TypeScript",
+  //   color: "1",
+  //   percentage: "80",
+  // },
+  // {
+  //   title: "Frameworks/Libraries",
+  //   skillName: "Angular, RxJS, NGRX/NGXS",
+  //   color: "6",
+  //   percentage: "70",
+  // },
+  // {
+  //   title: "Design",
+  //   skillName: "HTML, Bootstrap, Tailwind",
+  //   color: "4",
+  //   percentage: "70",
+  // },
+  // {
+  //   title: "Version Control",
+  //   skillName: "GitHub, JIRA, Bitbucket",
+  //   color: "7",
+  //   percentage: "70",
+  // },
+  // {
+  //   title: "Tools",
+  //   skillName: "Debugging, Chrome DevTools",
+  //   color: "3",
+  //   percentage: "80",
+  // },
 //   {
 //     title: "Analytics",
 //     skillName: "CleverTap, Countly",
@@ -52,37 +76,37 @@ export const skills = [
 export const projects = {
   webProjects: [
     {
-      projectName: "Programming Diaries",
+      projectName: "EcoHer",
       image: "images/programmingdiaries.png",
       summary:
-        "Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-      preview: "https://programmingdiaries.herokuapp.com/",
-      techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+        "Developed a web app for youth featuring an AI therapist to assist with panic attack management",
+      preview: "https://nasaspaceappchallenge-eco-her-anannyagairola.replit.app/index.html",
+      techStack: ["JavaScript"],
     },
     {
-      projectName: "Find Your Bank",
+      projectName: "Jorge the Therapist",
       image: "images/findyourbank.png",
       summary:
-        "Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-      preview: "https://clever-fermi-0d5d76.netlify.app",
-      techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
+        "Developed an educational website to help solve gender inequality in the context of climate crisis",
+      preview: "https://hh24",
+      techStack: ["NodeJS", "JavaScript"],
     },
     {
       projectName: "Web Portfolio",
       image: "images/portfolio.png",
       summary:
-        "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-      preview: "https://github.com/vinaysomawat/Travographer-Portal",
+        "Web Portfolio to showcase academics, skills, projects and contact details in better manner.",
+      preview: "https://rubysmac.github.io",
       techStack: ["HTML", "Bootstrap", "JavaScript"],
     },
-    {
-      projectName: "Resume Builder",
-      image: "images/resume-builder.png",
-      summary:
-        "Browser based editor to build and download Resumes in a customizable templates.",
-      preview: "https://vinaysomawat.github.io/Resume-Builder",
-      techStack: ["HTML", "Bootstrap", "JavaScript"],
-    },
+    // {
+    //   projectName: "Resume Builder",
+    //   image: "images/resume-builder.png",
+    //   summary:
+    //     "Browser based editor to build and download Resumes in a customizable templates.",
+    //   preview: "https://vinaysomawat.github.io/Resume-Builder",
+    //   techStack: ["HTML", "Bootstrap", "JavaScript"],
+    // },
   ],
   softwareProjects: [
     {
@@ -218,48 +242,43 @@ export const experience = [
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
+    title: "Smith College (United States)",
+    duration: "2024 - 2028",
+    subtitle: "B.S. in Computer Science and Engineering",
     details: [],
     tags: [
-      "Data Structures & Algorithms",
-      "Operating Systems",
-      "Database Management System",
-      "Computer Networks",
-      "Compiler Designing",
-      "Cloud Computing",
+      "Data Structures",
+      "Fundamental Engineering Principles",
+      "Objected Oriented Programming",
+      "Engineering for Everyone",
+      "Intro to Macroeconomics",
     ],
     icon: "graduation-cap",
   },
   {
-    title: "Class 12th in Science and Mathematics",
-    duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
+    title: "Hankuk Academy of Foreign Studies (South Korea)",
+    duration: "2021-2024",
+    subtitle: "GPA 4.93",
     details: [],
-    tags: ["Physics", "Chemistry", "Mathematics"],
+    tags: ["AP Computer Science A", "AP Statistics", "AP Calculus BC", "AP Biology", "AP Chemistry", "AP Psychology"],
     icon: "book",
   },
 ];
 
 export const footer = [
-//   {
-//     label: "Dev Profiles",
-//     data: [
-//       {
-//         text: "Stackoverflow",
-//         link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-//       },
-//       {
-//         text: "GitHub",
-//         link: "https://github.com/vinaysomawat",
-//       },
-//       {
-//         text: "LeetCode",
-//         link: "https://leetcode.com/somawatvinay/",
-//       },
-//     ],
-//   },
+  {
+    label: "Dev Profiles",
+    data: [
+      {
+        text: "GitHub",
+        link: "https://github.com/rubysmac",
+      },
+      // {
+      //   text: "LeetCode",
+      //   link: "https://leetcode.com/somawatvinay/",
+      // },
+    ],
+  },
 //   {
 //     label: "Resources",
 //     data: [
@@ -280,21 +299,17 @@ export const footer = [
   {
     label: "Links",
     data: [
-    //   {
-    //     text: "Linkedin",
-    //     link: "https://www.linkedin.com/in/vinaysomawat/",
-    //   },
+      {
+        text: "Linkedin",
+        link: "https://www.linkedin.com/in/ruby-hong-639143326/",
+      },
     //   {
     //     text: "Twitter",
     //     link: "https://twitter.com/thesigmakid",
     //   },
       {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
-      },
-      {
-        text: "Github/vinaysomawat.github.io",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        text: "Github/rubysmac.github.io",
+        link: "https://github.com/vinaysomawat/rubysmac.github.io",
       },
     ],
   },

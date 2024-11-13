@@ -1,5 +1,7 @@
-# Portfolio Website.
+# Ruby's Portfolio Website
 
-**If you enjoy this project, please consider [supporting me](https://www.paypal.me/vinaysomawat) to continue developing and maintaining it.**
+This is my personal portfolio website, adapted from the original work by [Vinay Somawat](https://github.com/vinaysomawat).
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/vinaysomawat)
+## Acknowledgments
+
+This portfolio is a forked and customized version of [Original Creator's Portfolio](https://github.com/vinaysomawat/vinaysomawat.github.io). Big thanks to them for the foundational design and code!
