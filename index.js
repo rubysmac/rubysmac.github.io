@@ -76,7 +76,7 @@ import { URLs } from './user-data/urls.js';
   } = basics;
   
   // added title of page
-    window.parent.document.title = name;
+    window.parent.document.title = "Rubysmac | Portfolio";
   }
   
   /**
@@ -477,9 +477,9 @@ import { URLs } from './user-data/urls.js';
   fetchGitConnectedData(gitConnected);
   
   populateProjects(webProjects, "web-projects");
-  populateProjects(softwareProjects, "software-projects");
-  populateProjects(androidProjects, "android-projects");
-  populateProjects(freelanceProjects, "freelance-projects");
+  // populateProjects(softwareProjects, "software-projects");
+  // populateProjects(androidProjects, "android-projects");
+  // populateProjects(freelanceProjects, "freelance-projects");
   
   populateExp_Edu(experience, "experience");
   populateExp_Edu(education, "education");

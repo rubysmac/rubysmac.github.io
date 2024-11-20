@@ -177,7 +177,7 @@ export const experience = [
     title: "The Hatchery",
     duration: "August 2024 - Present",
     subtitle: "Web Developer/Entrepreneur",
-    details: ["Working in support and escalation team."],
+    details: ["Working on a startup idea for social good, developing platform for youth mental health."],
     tags: ["JavaScript", "ReactJS", "Tailwind", "Nodejs"],
     icon: "heartbeat",
   },
@@ -200,10 +200,10 @@ export const experience = [
 
 export const education = [
   {
-    title: "Smith College (United States)",
+    title: "Smith College",
     duration: "2024 - 2028",
     subtitle: "B.S. in Computer Science and Engineering",
-    details: [],
+    details: ["First Yr Representative of Google Developer Student Club", "Girls Who Code", "Society of Women Engineers", "Investment Club"],
     tags: [
       "Data Structures",
       "Fundamental Engineering Principles",
@@ -214,10 +214,10 @@ export const education = [
     icon: "graduation-cap",
   },
   {
-    title: "Hankuk Academy of Foreign Studies (South Korea)",
+    title: "Hankuk Academy of Foreign Studies",
     duration: "2021-2024",
     subtitle: "GPA 4.93",
-    details: [],
+    details: ["Foundeder and President of the school official environmental club", "School YouTube Channel Ambassador", "Lacrosse Varsity Team MVP"],
     tags: ["AP Computer Science A", "AP Statistics", "AP Calculus BC", "AP Biology", "AP Chemistry", "AP Psychology"],
     icon: "book",
   },
