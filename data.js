@@ -8,33 +8,28 @@ export const skills = [
   {
     title: "Languages",
     skillName: "Python, Java",
-    color: "1",
+    color: "5",
     percentage: "85",
   },
   {
-    title: "Frameworks/Libraries",
-    skillName: "Javascript",
-    color: "6",
-    percentage: "40",
-  },
+    title: "Skills",
+    skillName: "Problem-Solving, Leadership, Initiative",
+    color: "6",      
+    percentage: "100",
+    },
   {
     title: "Design",
-    skillName: "HTML, Bootstrap, Tailwind",
+    skillName: "HTML, CSS, JavaScript",
     color: "4",
     percentage: "40",
   },
   {
-    title: "Version Control",
+    title: "Statistics",
     skillName: "R, MatLab",
     color: "7",
     percentage: "20",
    },
-  // {
-  //   title: "Languages",
-  //   skillName: "JavaScript, TypeScript",
-  //   color: "1",
-  //   percentage: "80",
-  // },
+  // 
   // {
   //   title: "Frameworks/Libraries",
   //   skillName: "Angular, RxJS, NGRX/NGXS",
