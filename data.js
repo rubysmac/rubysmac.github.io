@@ -218,7 +218,7 @@ export const education = [
   },
   {
     title: "Hankuk Academy of Foreign Studies",
-    duration: "2021-2024",
+    duration: "2021 - 2024",
     subtitle: "International Track",
     details: ["Founder and President of the school official environmental club", "School YouTube Channel Ambassador", "Lacrosse Varsity Team MVP"],
     tags: ["AP Computer Science A", "AP Statistics", "AP Calculus BC", "AP Biology", "AP Chemistry", "AP Psychology"],
