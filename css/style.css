@@ -62,7 +62,7 @@ p {
 }
 x {
 	margin-bottom: 1.5em;
-	background-color: #D8E2F5;
+	background-color: #CCDFCB;
 	backface-visibility: visible;
 }
 
@@ -138,7 +138,7 @@ figure figcaption {
 	width: 300px;
 	position: fixed;
 	z-index: 1001;
-	background-color: #D8E2F5;
+	background-color: #CCDFCB;
 	-webkit-transition: 0.5s;
 	-o-transition: 0.5s;
 	transition: 0.5s;
@@ -152,7 +152,7 @@ figure figcaption {
 		-o-transform: translateX(-300px);
 		transform: translateX(-300px);
 		padding-top: 4em;
-		background-color: #D8E2F5;
+		background-color: #CCDFCB;
 		height: auto;
 	}
 	.resume-content img {
@@ -234,11 +234,11 @@ figure figcaption {
 	letter-spacing: 0.5px;
 }
 #colorlib-aside #colorlib-main-menu ul li a {
-	color: #9B111E;
+	color: #212121;
 	text-decoration: none;
 	position: relative;
 	padding: 10px 0;
-	font-family: "Montserrat", sans-serif;;
+	font-family: "Montserrat", sans-serif;
 	-webkit-transition: 0.3s;
 	-o-transition: 0.3s;
 	transition: 0.3s;
@@ -265,7 +265,7 @@ figure figcaption {
 }
 #colorlib-aside #colorlib-main-menu ul li a:hover {
 	text-decoration: none;
-	color: #9B111E;
+	color: #212121;
 }
 #colorlib-aside #colorlib-main-menu ul li a:hover:after {
 	visibility: visible;
@@ -291,7 +291,7 @@ figure figcaption {
 	font-size: 20px;
 	text-align: center;
 	font-weight: 400;
-	color: #9B111E;
+	color: #212121;
 	padding: 0 20px;
 	width: 100%;
 }
@@ -319,7 +319,7 @@ figure figcaption {
 	padding: 4px;
 }
 #colorlib-aside .colorlib-footer h3 a {
-	color: #9B111E;
+	color: #212121;
 	font-size: 18px;
 }
 #rcorners2 {
@@ -330,7 +330,7 @@ figure figcaption {
 	height: 40px;
 }
 #colorlib-aside .colorlib-footer ul li a {
-	color: rgba(255, 255, 255, 0.3);
+	color: #212121;
 	padding: 4px;
 }
 #colorlib-aside .colorlib-footer ul li a:hover,
@@ -338,7 +338,7 @@ figure figcaption {
 #colorlib-aside .colorlib-footer ul li a:focus {
 	text-decoration: none;
 	outline: none;
-	color: #9B111E;
+	color: #212121;
 }
 
 .container-wrap {
@@ -519,7 +519,7 @@ body.offcanvas #colorlib-aside {
 	-o-transform: translateX(0);
 	transform: translateX(0);
 	width: 372px;
-	background-color: #D8E2F5;
+	background-color: #CCDFCB;
 	z-index: 999;
 	position: fixed;
 }
@@ -666,7 +666,7 @@ body.offcanvas .colorlib-nav-toggle {
 
 .hire {
 	padding: 2em;
-	background: #D8E2F5;
+	background: #CCDFCB;
 	color: #000;
 	border-radius: 4px;
 }
@@ -830,7 +830,7 @@ body.offcanvas .colorlib-nav-toggle {
 	position: absolute;
 	display: block;
 	width: 4px;
-	background: #D8E2F5;
+	background: #CCDFCB;
 	top: 20px;
 	bottom: 20px;
 	margin-left: 29px;
@@ -876,7 +876,7 @@ body.offcanvas .colorlib-nav-toggle {
 	.timeline-entry
 	.timeline-entry-inner
 	.timeline-icon.color-3 {
-	background: #D8E2F5;
+	background: #CCDFCB;
 }
 .timeline-centered
 	.timeline-entry
@@ -902,7 +902,7 @@ body.offcanvas .colorlib-nav-toggle {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
 	position: relative;
-	background: #D8E2F5;
+	background: #CCDFCB;
 	color: #000;
 	padding: 1.5em;
 	margin-left: 60px;
@@ -2006,7 +2006,7 @@ ul {
 	padding-left: 20px;
 	padding-right: 20px;
 	/* margin: 30px auto 20px; */
-	background: #D8E2F5;
+	background: #CCDFCB;
 	color: #000;
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
@@ -2059,7 +2059,7 @@ ul {
 
 .submenu {
 	display: none;
-	background: #D8E2F5;
+	background: #CCDFCB;
 	font-size: 14px;
 	padding-left: 0px;
 	padding-top: 10px;
@@ -2173,7 +2173,7 @@ span {
 }
 
 :root {
-	--footer-bg: #D8E2F5;
+	--footer-bg: #CCDFCB;
 	--color: #000;
 	--color-smooth: #000;
 	--input-border: #3a456a;
@@ -2250,4 +2250,3 @@ span {
     text-align: right;
     font-weight: 600;
 }
-  
