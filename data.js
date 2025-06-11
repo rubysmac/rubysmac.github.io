@@ -1,6 +1,6 @@
 export const bio = [
-  "Hello! I'm Ruby Hong, a Computer Science and Engineering student at Smith College passionate about leveraging technology to create impactful solutions.",
-  "I am actively learning AI and web development, building my foundational knowledge and skills. Through my leadership in social initiatives, I strive to drive innovation with both technical expertise and entrepreneurial thinking.",
+  "Hello! I'm Ruby Hong, an Engineering and Computer Science student at Smith College passionate about leveraging technology to create impactful solutions.",
+  "I am actively learning AI and ML. Through my leadership in social initiatives, I strive to drive innovation with both technical expertise and entrepreneurial thinking.",
   "Thanks for visiting!",
 ];
 
@@ -169,11 +169,19 @@ export const projects = {
 
 export const experience = [
   {
+    title: "Break Through Tech @MIT",
+    duration: "May 2025 - April 2026",
+    subtitle: "Machine Learning Fellow",
+    details: ["Participated in eCornell course, and worked on a group ML project."],
+    tags: ["Python", "AI/ML"],
+    icon: "heartbeat",
+  },
+  {
     title: "The Hatchery",
     duration: "August 2024 - Present",
-    subtitle: "Web Developer/Entrepreneur",
-    details: ["Working on a startup idea for social good, developing platform for youth mental health."],
-    tags: ["JavaScript", "ReactJS", "Tailwind", "Nodejs"],
+    subtitle: "Entrepreneurial Project Lead/Web Developer",
+    details: ["Worked on a startup idea for social good, developing platform for youth mental health. Also, designed a sustainable perfume brand with $1000 funding."],
+    tags: ["Leadership"],
     icon: "heartbeat",
   },
   // {
@@ -197,7 +205,7 @@ export const education = [
   {
     title: "Smith College",
     duration: "2024 - 2028",
-    subtitle: "B.S. in Computer Science and Engineering",
+    subtitle: "B.S. in Engineering and Computer Science",
     details: ["First Yr Representative of Google Developer Student Club", "Girls Who Code", "Society of Women Engineers", "Investment Club"],
     tags: [
       "Data Structures",
@@ -211,8 +219,8 @@ export const education = [
   {
     title: "Hankuk Academy of Foreign Studies",
     duration: "2021-2024",
-    subtitle: "GPA 4.93",
-    details: ["Foundeder and President of the school official environmental club", "School YouTube Channel Ambassador", "Lacrosse Varsity Team MVP"],
+    subtitle: "International Track",
+    details: ["Founder and President of the school official environmental club", "School YouTube Channel Ambassador", "Lacrosse Varsity Team MVP"],
     tags: ["AP Computer Science A", "AP Statistics", "AP Calculus BC", "AP Biology", "AP Chemistry", "AP Psychology"],
     icon: "book",
   },
